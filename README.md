@@ -32,7 +32,7 @@ python gui.py
 
 生成的圖表分別為 Power, Thrust, Current, Efficiency （y 軸）對 RPM, Throttle （x 軸）共 8 組。
 
-判讀前：
+### 判讀前
 
 需先檢查測得數據的單位是否正確
 
@@ -42,7 +42,7 @@ python gui.py
 - Efficiency: kg/w
 - Throttle: %
 
-判讀：
+### 判讀
 
 - 除 Efficiency 測得的數據為遞減，其餘皆為遞增。
 - 各數值上限是否有超過馬達規格。
