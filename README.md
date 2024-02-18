@@ -12,7 +12,7 @@
 
 請先確保電腦已安裝 Python，並且可以在終端機中運行 Python。
 
-```console
+```
 pip install PySimpleGUI pyserial pandas matplotlib
 python gui.py
 ```
